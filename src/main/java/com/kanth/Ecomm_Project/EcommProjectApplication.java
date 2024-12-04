@@ -9,6 +9,7 @@ public class EcommProjectApplication {
 	public static void main(String[] args) {
 		
 		SpringApplication.run(EcommProjectApplication.class, args);
+		int prod_price=1300;
 	}
 
 }
