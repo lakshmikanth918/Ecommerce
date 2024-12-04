@@ -9,7 +9,9 @@ public class EcommProjectApplication {
 	public static void main(String[] args) {
 		
 		SpringApplication.run(EcommProjectApplication.class, args);
+        String prod_name="Smart Watch";
 		int prod_price=1300;
+
 	}
 
 }
