@@ -5,7 +5,11 @@
 	<parent>
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-parent</artifactId>
+<<<<<<< HEAD
 		<version>3.4.1-RELEASE</version>
+=======
+		<version>3.4.1-Release</version>
+>>>>>>> de83ecaef502866d9448f3028e0303c37e1e8794
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.kanth</groupId>
